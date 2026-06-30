@@ -4,97 +4,97 @@
             "name": "老地方-line|昊",
             "type": 3,
             "api": "csp_laodifang",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/laodifang.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/laodifang.js"
 },{
             "name": "电影天堂-line|昊",
             "type": 3,
             "api": "csp_dytt",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dytt.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/dytt.js"
 },{
             "name": "影视TV-line|昊",
             "type": 3,
             "api": "csp_ysTV",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/ysTV.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/ysTV.js"
 },{
             "name": "网飞猫-line|昊",
             "type": 3,
             "api": "csp_wfm",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/wfm.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/wfm.js"
 },{
             "name": "追影猫-line|昊",
             "type": 3,
             "api": "csp_zym",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/zym.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/zym.js"
 },{
             "name": "全集网-line|昊",
             "type": 3,
             "api": "csp_qjw",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/qjw.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/qjw.js"
 },{
             "name": "剧迷TV-line|昊",
             "type": 3,
             "api": "csp_GimyTV",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GimyTV.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/GimyTV.js"
 },{
             "name": "爱影剧网-line|昊",
             "type": 3,
             "api": "csp_aiyijw",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/aiyjw.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/aiyjw.js"
 },{
             "name": "海龟TV-line|昊",
             "type": 3,
             "api": "csp_hgTV",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/hgtv.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/hgtv.js"
 },{
             "name": "桃子影视-line|昊",
             "type": 3,
             "api": "csp_tzsp",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/taozi.js"
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/taozi.js"
 },{
             "name": "pppHub",
             "type": 3,
             "api": "csp_ppron",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/pppPorn.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/pppPorn.js" 
 },{
             "name": "樱花动漫-line|昊",
             "type": 3,
             "api": "csp_yhdm",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yhdm.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/yhdm.js" 
 },{
             "name": "小米UC视频-pan|昊",
             "type": 3,
             "api": "csp_js/mucpan",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/mucpan.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/mucpan.js" 
 },{
             "name": "观影网-line-pan|昊",
             "type": 3,
             "api": "csp_js/GYING",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GYING-line-pan.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/GYING-line-pan.js" 
 },{
             "name": "肉视频",
             "type": 3,
             "api": "csp_js/rousp",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/rousp.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/rousp.js" 
 },{
             "name": "missav",
             "type": 3,
             "api": "csp_js/missav",
-            "ext": "https://raw.githubusercontent.com/fengtangyuan/nodejs/refs/heads/main/missav.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/missav.js" 
 },{
             "name": "美剧迷-pan|昊",
             "type": 3,
             "api": "csp_js/meijumi",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/meijumi.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/meijumi.js" 
 },{
             "name": "大米星球-line|昊",
             "type": 3,
             "api": "csp_js/dmxq",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dmxq.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/dmxq.js" 
 },{
             "name": "云巢-pan|昊",
             "type": 3,
             "api": "csp_js/yunchao",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yunchao.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/yunchao.js" 
 },{
             "name": "新视觉-line|昊",
             "type": 3,
@@ -104,77 +104,77 @@
             "name": "pomo.js|昊",
             "type": 3,
             "api": "csp_js/pomo.js",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/pomo.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/pomo.js" 
 },{
             "name": "naixxzy|昊",
             "type": 3,
             "api": "csp_js/naixxzy",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/naixxzy.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/naixxzy.js" 
 },{
             "name": "555影视-line|昊",
             "type": 3,
             "api": "csp_js/555ys",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/555ys.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/555ys.js" 
 },{
             "name": "剧集TV-line-pan|昊",
             "type": 3,
             "api": "csp_js/TV-line-pan",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/jujiTV-line-pan.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/jujiTV-line-pan.js" 
 },{
             "name": "vidhub|昊",
             "type": 3,
             "api": "csp_js/vidhub",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/vidhub.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/vidhub.js" 
 },{
             "name": "趣盘搜|昊",
             "type": 3,
             "api": "csp_js/qps",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/qps.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/qps.js" 
 },{
             "name": "小虎斑|盘",
             "type": 3,
             "api": "csp_js/huban",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/huban.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/huban.js" 
 },{
             "name": "特下饭|盘",
             "type": 3,
             "api": "csp_js/xiafan",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xiafan.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/xiafan.js" 
 },{
             "name": "木偶|盘",
             "type": 3,
             "api": "csp_js/muou",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/muou.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/muou.js" 
 },{
             "name": "小雅AList",
             "type": 3,
             "api": "csp_js/alist_xiaoya",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/alist_xiaoya.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/alist_xiaoya.js" 
 },{
             "name": "anfuns",
             "type": 3,
             "api": "csp_js/anfuns",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/anfuns.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/anfuns.js" 
 },{
             "name": "校长影视",
             "type": 3,
             "api": "csp_js/xzys",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xzys.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/xzys.js" 
 },{
             "name": "虎斑/2",
             "type": 3,
             "api": "csp_js/huban",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/huban.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/huban.js" 
 },{
             "name": "kanave/2",
             "type": 3,
             "api": "csp_js/kanav",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/kanav.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/kanav.js" 
 },{
             "name": "kanave/2",
             "type": 3,
             "api": "csp_js/kanav",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/kanav.js" 
+            "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/kanav.js" 
 },
        
     ]
