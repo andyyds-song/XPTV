@@ -101,10 +101,10 @@
             "api": "csp_js/xsjyy",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xsjyy.js" 
 },{
-            "name": "麻豆村|昊",
+            "name": "pomo.js|昊",
             "type": 3,
-            "api": "csp_js/madoucun",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/madoucun.js" 
+            "api": "csp_js/pomo.js",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/pomo.js" 
 },{
             "name": "naixxzy|昊",
             "type": 3,
