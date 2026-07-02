@@ -166,9 +166,9 @@
             "api": "csp_js/huban",
             "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/huban.js" 
 },{
-            "name": "xueluo",
+            "name": "雪落视频",
             "type": 3,
-            "api": "csp_js/kanav",
+            "api": "csp_js/xueluo",
             "ext": "https://raw.githubusercontent.com/andyyds-song/XPTV/refs/heads/main/js/xueluo.js" 
 },{
             "name": "kanave/2",
